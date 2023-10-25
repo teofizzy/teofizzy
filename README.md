@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **computer science**
 
- 💬 Ask me about **artificial intelligence, natural language processing, webscraping**
+ 💬 Ask me about **artificial intelligence, natural language processing, and webscraping or anything about data science**
 
  ⚡ Fun fact **I like working out and reading**
  
