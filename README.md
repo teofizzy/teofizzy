@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working as an AI researcher at the Centre for Data Science and Artificial Intelligence - DeKUT and a **freelance data scientist**. That implies... I am always open for freelance gigs, collaborative projects and contract-based opportunities.
+ 🔭 I’m currently working as an AI researcher at the Centre for Data Science and Artificial Intelligence - DeKUT and a **freelance data scientist**. That implies... I am open to freelance gigs and collaborative projects.
  
  🌱 I’m currently learning **computer science and data engineering**
 
