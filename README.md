@@ -35,7 +35,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=selenium,vscode,github,git,r,linux,markdown,aws,pytorch" />
-    <img src="https://skillicons.dev/icons?i=python,sqlite,flask,tensorflow,docker,kubernetes" /><br>
+    <img src="https://skillicons.dev/icons?i=python,sqlite,flask,tensorflow,docker,kubernetes, NLP, RAG, LLMs" /><br>
 </div>
 
 <br/>
